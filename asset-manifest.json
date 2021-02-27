@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/youtube-clone/static/css/main.914abd90.chunk.css",
+    "main.js": "/youtube-clone/static/js/main.e664bd2d.chunk.js",
+    "main.js.map": "/youtube-clone/static/js/main.e664bd2d.chunk.js.map",
+    "runtime-main.js": "/youtube-clone/static/js/runtime-main.753eed74.js",
+    "runtime-main.js.map": "/youtube-clone/static/js/runtime-main.753eed74.js.map",
+    "static/js/2.794577d5.chunk.js": "/youtube-clone/static/js/2.794577d5.chunk.js",
+    "static/js/2.794577d5.chunk.js.map": "/youtube-clone/static/js/2.794577d5.chunk.js.map",
+    "static/js/3.aff368b6.chunk.js": "/youtube-clone/static/js/3.aff368b6.chunk.js",
+    "static/js/3.aff368b6.chunk.js.map": "/youtube-clone/static/js/3.aff368b6.chunk.js.map",
+    "index.html": "/youtube-clone/index.html",
+    "static/css/main.914abd90.chunk.css.map": "/youtube-clone/static/css/main.914abd90.chunk.css.map",
+    "static/js/2.794577d5.chunk.js.LICENSE.txt": "/youtube-clone/static/js/2.794577d5.chunk.js.LICENSE.txt",
+    "static/media/fahmi.1132223b.jpeg": "/youtube-clone/static/media/fahmi.1132223b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.753eed74.js",
+    "static/js/2.794577d5.chunk.js",
+    "static/css/main.914abd90.chunk.css",
+    "static/js/main.e664bd2d.chunk.js"
+  ]
+}
